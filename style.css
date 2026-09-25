@@ -105,3 +105,9 @@ footer {
         margin: 10px 20px;
     }
 }
+#name-error,
+#email-error {
+    color: red;
+    font-size: 14px;
+    margin-left: 10px;
+}
